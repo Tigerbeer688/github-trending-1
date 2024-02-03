@@ -2773,6 +2773,8 @@
 
 ## Python
 
+* 【2024-02-03】[AILab-CVC / YOLO-World](https://github.com/AILab-CVC/YOLO-World) - Real-Time Open-Vocabulary Object Detection
+* 【2024-02-03】[zaigie / palworld-server-tool](https://github.com/zaigie/palworld-server-tool) - 基于Level.sav存档解析和RCON优雅地用可视化界面管理幻兽帕鲁专用服务器。/ Through parse Level.sav and RCON, visual interface management PalWorld dedicated server.
 * 【2024-02-02】[microsoft / TransformerCompression](https://github.com/microsoft/TransformerCompression) - For releasing code related to compression methods for transformers, accompanying our publications
 * 【2024-02-02】[X-PLUG / MobileAgent](https://github.com/X-PLUG/MobileAgent) - Mobile-Agent: Autonomous Multi-Modal Mobile Device Agent with Visual Perception
 * 【2024-01-31】[kyegomez / MORPHEUS-1](https://github.com/kyegomez/MORPHEUS-1) - Implementation of "MORPHEUS-1" from Prophetic AI and "The world’s first multi-modal generative ultrasonic transformer designed to induce and stabilize lucid dreams. "
@@ -4416,6 +4418,7 @@
 
 ## Javascript
 
+* 【2024-02-03】[TrueCarry / JettonGramGpuMiner](https://github.com/TrueCarry/JettonGramGpuMiner) - 
 * 【2024-02-02】[the-code-crusader / ValentinesSite](https://github.com/the-code-crusader/ValentinesSite) - Quick little static site I created to ask a girl to be my valentine!
 * 【2024-02-02】[yarnpkg / yarn](https://github.com/yarnpkg/yarn) - The 1.x line is frozen - features and bugfixes now happen on https://github.com/yarnpkg/berry
 * 【2024-02-01】[toolkit-for-ynab / toolkit-for-ynab](https://github.com/toolkit-for-ynab/toolkit-for-ynab) - A general purpose YNAB enhancing browser extension for Chrome and Firefox. Have it your way!
@@ -6347,6 +6350,8 @@
 
 ## C
 
+* 【2024-02-03】[snyk / leaky-vessels-dynamic-detector](https://github.com/snyk/leaky-vessels-dynamic-detector) - Leaky Vessels Dynamic Detector
+* 【2024-02-03】[redeflesq / firewall-bypass](https://github.com/redeflesq/firewall-bypass) - Download data from the internet bypassing the firewall using process injection
 * 【2024-02-02】[eggert / tz](https://github.com/eggert/tz) - Time zone database and code
 * 【2024-02-01】[boku7 / azureOutlookC2](https://github.com/boku7/azureOutlookC2) - Azure Outlook Command & Control (C2) - Remotely control a compromised Windows Device from your Outlook mailbox. Threat Emulation Tool for North Korean APT InkySquid / ScarCruft / APT37. TTP: Use Microsoft Graph API for C2 Operations.
 * 【2024-01-31】[Cracked5pider / Stardust](https://github.com/Cracked5pider/Stardust) - A modern 64-bit position independent implant template
@@ -7945,6 +7950,7 @@
 
 ## C#
 
+* 【2024-02-03】[vallettasoftware / boilerplate-dotnet](https://github.com/vallettasoftware/boilerplate-dotnet) - A multifunctional enterprise HTTP API project template based on modern approaches and the latest version of .NET 8.
 * 【2024-02-02】[FosterFramework / Foster](https://github.com/FosterFramework/Foster) - A small C# game framework
 * 【2024-02-01】[KirosHan / Palworld-server-protector-DotNet](https://github.com/KirosHan/Palworld-server-protector-DotNet) - Palworld幻兽帕鲁服务端守护+存档备份+内存监控+优雅重启+Rcon指令
 * 【2024-02-01】[mayuki / Rin](https://github.com/mayuki/Rin) - Request/response Inspector middleware for ASP.NET Core
@@ -8765,6 +8771,7 @@
 
 ## Html
 
+* 【2024-02-03】[Aemulo / Release](https://github.com/Aemulo/Release) - 
 * 【2024-01-31】[luizdepra / hugo-coder](https://github.com/luizdepra/hugo-coder) - A minimalist blog theme for hugo.
 * 【2024-01-31】[alura-cursos / DIA5-Imersao-Alura-2024](https://github.com/alura-cursos/DIA5-Imersao-Alura-2024) - 
 * 【2024-01-30】[vnglst / pong-wars](https://github.com/vnglst/pong-wars) - 
@@ -10637,6 +10644,7 @@
 
 ## Unknown
 
+* 【2024-02-03】[RawChat / RawChat](https://github.com/RawChat/RawChat) - 
 * 【2024-02-02】[familiar / Bedwars-Bot](https://github.com/familiar/Bedwars-Bot) - A Bedwars Bot made for Hypixel, compatibility with Fours, Dreams, (and Castles) modes. Has resource sharing, defense, failsafes, and requeuing. Coded in Macro / Keybind mod for 1.12.2 Liteloader + Forge.
 * 【2024-02-02】[node-dojo / dojo-recursive-bins](https://github.com/node-dojo/dojo-recursive-bins) - 3d printable bin generator using blender geometry nodes
 * 【2024-02-02】[reprise99 / Sentinel-Queries](https://github.com/reprise99/Sentinel-Queries) - Collection of KQL queries
