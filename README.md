@@ -6,6 +6,8 @@
 
 ## All language
 
+* 【2024-09-03】[MLSysOps / MLE-agent](https://github.com/MLSysOps/MLE-agent) - 🤖 MLE-Agent: Your intelligent companion for seamless AI engineering and research. 🔍 Integrate with arxiv and paper with code to provide better code/research plans 🧰 OpenAI, Anthropic, Ollama, etc supported. 🎆 Code RAG
+* 【2024-09-03】[graviraja / MLOps-Basics](https://github.com/graviraja/MLOps-Basics) - 
 * 【2024-09-02】[Zeyi-Lin / HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos) - ⚡️HivisionIDPhotos: a lightweight and efficient AI ID photos tools. 一个轻量级的AI证件照制作算法。
 * 【2024-09-02】[gitroomhq / postiz-app](https://github.com/gitroomhq/postiz-app) - 📨 Schedule social posts, measure them, exchange with other members and get a lot of help from AI 🚀
 * 【2024-09-02】[AppFlowy-IO / AppFlowy-Cloud](https://github.com/AppFlowy-IO/AppFlowy-Cloud) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
@@ -2631,6 +2633,7 @@
 
 ## Java
 
+* 【2024-09-03】[Dev4Mod / WaEnhancer](https://github.com/Dev4Mod/WaEnhancer) - WhatsApp tools for Android
 * 【2024-09-02】[Wynntils / Wynntils](https://github.com/Wynntils/Wynntils) - Wynntils (Artemis) is a rewrite of Wynntils in 1.21 using Architectury, to support Fabric and Forge.
 * 【2024-08-31】[in28minutes / JavaInterviewQuestionsAndAnswers](https://github.com/in28minutes/JavaInterviewQuestionsAndAnswers) - Java Interview Questions and Answers
 * 【2024-08-25】[nfcgate / nfcgate](https://github.com/nfcgate/nfcgate) - An NFC research toolkit application for Android
@@ -3493,6 +3496,9 @@
 
 ## Python
 
+* 【2024-09-03】[Recol / DLSS-Updater](https://github.com/Recol/DLSS-Updater) - What if you could update all the games that are detected on your system?
+* 【2024-09-03】[hanxi / xiaomusic](https://github.com/hanxi/xiaomusic) - 使用小爱音箱播放音乐，音乐使用 yt-dlp 下载。
+* 【2024-09-03】[dromara / domain-admin](https://github.com/dromara/domain-admin) - 域名SSL证书监测平台、SSL证书申请自动续签。Domain and SSL Cert monitor System.
 * 【2024-08-29】[THUDM / GLM-4](https://github.com/THUDM/GLM-4) - GLM-4 series: Open Multilingual Multimodal Chat LMs | 开源多语言多模态对话模型
 * 【2024-08-28】[NUS-HPC-AI-Lab / VideoSys](https://github.com/NUS-HPC-AI-Lab/VideoSys) - VideoSys: An easy and efficient system for video generation
 * 【2024-08-27】[PromtEngineer / Verbi](https://github.com/PromtEngineer/Verbi) - A modular voice assistant application for experimenting with state-of-the-art transcription, response generation, and text-to-speech models. Supports OpenAI, Groq, Elevanlabs, CartesiaAI, and Deepgram APIs, plus local models via Ollama. Ideal for research and development in voice technology.
@@ -5589,6 +5595,7 @@
 
 ## Javascript
 
+* 【2024-09-03】[xnx3 / translate](https://github.com/xnx3/translate) - Two lines of js realize automatic html translation. No need to change the page, no language configuration file, no API key, SEO friendly!
 * 【2024-08-30】[remarkjs / react-markdown](https://github.com/remarkjs/react-markdown) - Markdown component for React
 * 【2024-08-28】[evgeny-nadymov / telegram-react](https://github.com/evgeny-nadymov/telegram-react) - Experimental Telegram web client with tdlib, webassembly and react js under the hood
 * 【2024-08-24】[micromatch / micromatch](https://github.com/micromatch/micromatch) - Highly optimized wildcard and glob matching library. Faster, drop-in replacement to minimatch and multimatch. Used by square, webpack, babel core, yarn, jest, ract-native, taro, bulma, browser-sync, stylelint, nyc, ava, and many others! Follow micromatch's author: https://github.com/jonschlinkert
@@ -11974,6 +11981,7 @@
 
 ## Css
 
+* 【2024-09-03】[AnswerDotAI / fasthtml-example](https://github.com/AnswerDotAI/fasthtml-example) - Example fasthtml applications demonstrating a range of web programming techniques
 * 【2024-08-31】[MicrosoftDocs / mslearn-interact-with-data-blazor-web-apps](https://github.com/MicrosoftDocs/mslearn-interact-with-data-blazor-web-apps) - Sample repo for Interact with Data for Blazor Web Apps Learn Module
 * 【2024-08-18】[delaneyj / datastar](https://github.com/delaneyj/datastar) - 
 * 【2024-08-09】[spring-petclinic / spring-petclinic-microservices](https://github.com/spring-petclinic/spring-petclinic-microservices) - Distributed version of Spring Petclinic built with Spring Cloud
