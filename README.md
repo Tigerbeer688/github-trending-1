@@ -6,6 +6,8 @@
 
 ## All language
 
+* 【2025-03-14】[johnbean393 / Sidekick](https://github.com/johnbean393/Sidekick) - A native macOS app that allows users to chat with a local LLM that can respond with information from files, folders and websites on your Mac without installing any other software. Powered by llama.cpp.
+* 【2025-03-14】[JackHopkins / factorio-learning-environment](https://github.com/JackHopkins/factorio-learning-environment) - A non-saturating, open-ended environment for evaluating LLMs in Factorio
 * 【2025-03-11】[thalissonvs / pydoll](https://github.com/thalissonvs/pydoll) - Pydoll is a library for automating chromium-based browsers without a WebDriver, offering realistic interactions. It supports Python's asynchronous features, enhancing performance and enabling event capturing and simultaneous web scraping.
 * 【2025-03-11】[mfontanini / presenterm](https://github.com/mfontanini/presenterm) - A markdown terminal slideshow tool
 * 【2025-03-09】[jeecgboot / jimureport](https://github.com/jeecgboot/jimureport) - 「数据可视化工具：报表、大屏、仪表盘」积木报表是一款类Excel操作风格，在线拖拽设计的报表工具和和数据可视化产品。功能涵盖: 报表设计、大屏设计、打印设计、图形报表、仪表盘门户设计等，完全免费！秉承“简单、易用、专业”的产品理念，极大的降低报表开发难度、缩短开发周期、解决各类报表难题。
@@ -2850,6 +2852,8 @@
 
 ## Java
 
+* 【2025-03-14】[sleuthkit / autopsy](https://github.com/sleuthkit/autopsy) - Autopsy® is a digital forensics platform and graphical interface to The Sleuth Kit® and other digital forensics tools. It can be used by law enforcement, military, and corporate examiners to investigate what happened on a computer. You can even use it to recover photos from your camera's memory card.
+* 【2025-03-14】[freeok / so-novel](https://github.com/freeok/so-novel) - 小说下载器 | 小说下载工具 | 小说下载神器 | 免费小说 | 网络小说 | 免费下载 | 网文下载
 * 【2025-03-09】[spring-projects / spring-ai-examples](https://github.com/spring-projects/spring-ai-examples) - 
 * 【2025-03-03】[guardianproject / orbot-android](https://github.com/guardianproject/orbot-android) - The Github home of Orbot: Tor on Android (Also available on gitlab!)
 * 【2025-03-01】[noties / Markwon](https://github.com/noties/Markwon) - Android markdown library (no WebView)
@@ -3770,6 +3774,7 @@
 
 ## Python
 
+* 【2025-03-14】[microsoft / TRELLIS](https://github.com/microsoft/TRELLIS) - Official repo for paper "Structured 3D Latents for Scalable and Versatile 3D Generation" (CVPR'25).
 * 【2025-03-11】[ElectricAlexis / NotaGen](https://github.com/ElectricAlexis/NotaGen) - NotaGen: Advancing Musicality in Symbolic Music Generation with Large Language Model Training Paradigms
 * 【2025-03-11】[kijai / ComfyUI-HunyuanVideoWrapper](https://github.com/kijai/ComfyUI-HunyuanVideoWrapper) - 
 * 【2025-03-11】[lss233 / kirara-ai](https://github.com/lss233/kirara-ai) - 🤖 可 DIY 的 多模态 AI 聊天机器人 | 🚀 快速接入 微信、 QQ、Telegram、等聊天平台 | 🦈支持DeepSeek、Grok、Claude、Ollama、Gemini、OpenAI | 工作流系统、网页搜索、AI画图、人设调教、虚拟女仆、语音对话 |
