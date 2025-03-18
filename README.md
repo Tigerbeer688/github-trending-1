@@ -6,6 +6,8 @@
 
 ## All language
 
+* 【2025-03-18】[yuruotong1 / autoMate](https://github.com/yuruotong1/autoMate) - Like Manus, Computer Use Agent(CUA) and Omniparser, we are computer-using agents.AI-driven local automation assistant that uses natural language to make computers work by themselves
+* 【2025-03-18】[RIP-Comm / sossoldi](https://github.com/RIP-Comm/sossoldi) - "Sossoldi" is a wealth management / personal finance / Net Worth tracking app, made with Flutter.
 * 【2025-03-16】[nvim-lualine / lualine.nvim](https://github.com/nvim-lualine/lualine.nvim) - A blazing fast and easy to configure neovim statusline plugin written in pure lua.
 * 【2025-03-16】[langchain-ai / ollama-deep-researcher](https://github.com/langchain-ai/ollama-deep-researcher) - Fully local web research and report writing assistant
 * 【2025-03-15】[yuaotian / go-cursor-help](https://github.com/yuaotian/go-cursor-help) - 解决Cursor在免费订阅期间出现以下提示的问题: You've reached your trial request limit. / Too many free trial accounts used on this machine. Please upgrade to pro. We have this limit in place to prevent abuse. Please let us know if you believe this is a mistake.
@@ -2856,6 +2858,7 @@
 
 ## Java
 
+* 【2025-03-18】[kooritea / fcmfix](https://github.com/kooritea/fcmfix) - [xposed]让fcm唤醒已完全停止的应用
 * 【2025-03-16】[HbmMods / Hbm-s-Nuclear-Tech-GIT](https://github.com/HbmMods/Hbm-s-Nuclear-Tech-GIT) - A flaming wreck of a minecraft mod about nuclear technology that is somehow still in development.
 * 【2025-03-14】[sleuthkit / autopsy](https://github.com/sleuthkit/autopsy) - Autopsy® is a digital forensics platform and graphical interface to The Sleuth Kit® and other digital forensics tools. It can be used by law enforcement, military, and corporate examiners to investigate what happened on a computer. You can even use it to recover photos from your camera's memory card.
 * 【2025-03-14】[freeok / so-novel](https://github.com/freeok/so-novel) - 小说下载器 | 小说下载工具 | 小说下载神器 | 免费小说 | 网络小说 | 免费下载 | 网文下载
@@ -3779,6 +3782,8 @@
 
 ## Python
 
+* 【2025-03-18】[ai-christianson / RA.Aid](https://github.com/ai-christianson/RA.Aid) - Develop software autonomously.
+* 【2025-03-18】[exo-lang / exo](https://github.com/exo-lang/exo) - Exocompilation for productive programming of hardware accelerators
 * 【2025-03-16】[QiuChenly / InjectLib](https://github.com/QiuChenly/InjectLib) - 你知道我要说什么
 * 【2025-03-16】[jiji262 / douyin-downloader](https://github.com/jiji262/douyin-downloader) - 抖音批量下载工具，去水印，支持视频、图集、合集、音乐(原声)。免费！免费！免费！
 * 【2025-03-16】[tensortrade-org / tensortrade](https://github.com/tensortrade-org/tensortrade) - An open source reinforcement learning framework for training, evaluating, and deploying robust trading agents.
@@ -6045,6 +6050,7 @@
 
 ## Javascript
 
+* 【2025-03-18】[exa-labs / exa-mcp-server](https://github.com/exa-labs/exa-mcp-server) - Claude can perform Web Search | Exa with MCP (Model Context Protocol)
 * 【2025-03-11】[mendableai / firecrawl-mcp-server](https://github.com/mendableai/firecrawl-mcp-server) - Official Firecrawl MCP Server - Adds powerful web scraping to Cursor, Claude and any other LLM clients.
 * 【2025-03-08】[browserbase / mcp-server-browserbase](https://github.com/browserbase/mcp-server-browserbase) - 
 * 【2025-03-07】[maxi1134 / Home-Assistant-Config](https://github.com/maxi1134/Home-Assistant-Config) - This is my Smart-home Installation repository
@@ -7507,6 +7513,7 @@
 
 ## Go
 
+* 【2025-03-18】[marcopiovanello / yt-dlp-web-ui](https://github.com/marcopiovanello/yt-dlp-web-ui) - A terrible web ui and RPC server for yt-dlp. Designed to be self-hosted.
 * 【2025-03-10】[Aylur / ags](https://github.com/Aylur/ags) - Scaffolding CLI for Astal+TypeScript
 * 【2025-03-10】[e2b-dev / infra](https://github.com/e2b-dev/infra) - Infrastructure for AI code interpreting that's powering E2B.
 * 【2025-03-09】[mark3labs / mcp-go](https://github.com/mark3labs/mcp-go) - A Go implementation of the Model Context Protocol (MCP), enabling seamless integration between LLM applications and external data sources and tools.
@@ -9641,6 +9648,7 @@
 
 ## C++
 
+* 【2025-03-18】[sipeed / NanoKVM](https://github.com/sipeed/NanoKVM) - Affordable, Multifunctional, Nano RISC-V IP-KVM
 * 【2025-03-11】[thomasxm / BOAZ_beta](https://github.com/thomasxm/BOAZ_beta) - Multilayered AV/EDR Evasion Framework
 * 【2025-03-10】[directvt / vtm](https://github.com/directvt/vtm) - Text-based desktop environment
 * 【2025-03-10】[diasurgical / DevilutionX](https://github.com/diasurgical/DevilutionX) - Diablo build for modern operating systems
