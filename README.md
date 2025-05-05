@@ -6177,6 +6177,7 @@
 
 ## Javascript
 
+* 【2025-05-05】[ilyhalight / voice-over-translation](https://github.com/ilyhalight/voice-over-translation) - Небольшое расширение, которое добавляет закадровый перевод видео из YaBrowser в другие браузеры
 * 【2025-05-03】[ubuntu / gnome-shell-extension-appindicator](https://github.com/ubuntu/gnome-shell-extension-appindicator) - Adds KStatusNotifierItem support to the Shell
 * 【2025-05-02】[muyoou / st-memory-enhancement](https://github.com/muyoou/st-memory-enhancement) - SillyTavern酒馆的长期记忆增强插件
 * 【2025-05-02】[json-schema-org / json-schema-spec](https://github.com/json-schema-org/json-schema-spec) - The JSON Schema specification
@@ -7663,6 +7664,8 @@
 
 ## Go
 
+* 【2025-05-05】[googleapis / go-genai](https://github.com/googleapis/go-genai) - Google Gen AI Go SDK provides an interface for developers to integrate Google's generative models into their Go applications.
+* 【2025-05-05】[blacktop / ipsw](https://github.com/blacktop/ipsw) - iOS/macOS Research Swiss Army Knife
 * 【2025-05-02】[ibnaleem / gosearch](https://github.com/ibnaleem/gosearch) - 🔍 Search anyone's digital footprint across 300+ websites
 * 【2025-04-30】[Tencent / AI-Infra-Guard](https://github.com/Tencent/AI-Infra-Guard) - A comprehensive, intelligent, easy-to-use, and lightweight AI Infrastructure Vulnerability Assessment and MCP Server Security Analysis Tool.
 * 【2025-04-29】[metoro-io / mcp-golang](https://github.com/metoro-io/mcp-golang) - Write Model Context Protocol servers in few lines of go code. Docs at https://mcpgolang.com
@@ -8732,6 +8735,7 @@
 
 ## C
 
+* 【2025-05-05】[medusalix / xone](https://github.com/medusalix/xone) - Linux kernel driver for Xbox One and Xbox Series X|S accessories
 * 【2025-05-04】[lwfinger / rtw88](https://github.com/lwfinger/rtw88) - A backport of the Realtek Wifi 5 drivers from the wireless-next repo.
 * 【2025-05-01】[torvalds / uemacs](https://github.com/torvalds/uemacs) - Random version of microemacs with my private modificatons
 * 【2025-04-25】[microsoft / winfile](https://github.com/microsoft/winfile) - Original Windows File Manager (winfile) with enhancements
@@ -13121,6 +13125,7 @@
 
 ## Css
 
+* 【2025-05-05】[fauzanmy / pehtheme-hugo](https://github.com/fauzanmy/pehtheme-hugo) - The Hugo theme is inspired by Material Design version 3, built with love using Tailwind CSS.
 * 【2025-04-18】[carbonwallet / carbonwallet.github.io](https://github.com/carbonwallet/carbonwallet.github.io) - 
 * 【2025-04-08】[aftertheflood / sparks](https://github.com/aftertheflood/sparks) - A typeface for creating sparklines in text without code.
 * 【2025-04-03】[catppuccin / jupyterlab](https://github.com/catppuccin/jupyterlab) - 📊 Soothing pastel theme for JupyterLab
