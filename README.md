@@ -6,6 +6,10 @@
 
 ## All language
 
+* 【2025-05-08】[voideditor / void](https://github.com/voideditor/void) - 
+* 【2025-05-08】[evroon / bracket](https://github.com/evroon/bracket) - Selfhosted tournament system
+* 【2025-05-08】[beekeeper-studio / beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
+* 【2025-05-08】[huggingface / agents-course](https://github.com/huggingface/agents-course) - This repository contains the Hugging Face Agents Course.
 * 【2025-05-04】[jj-vcs / jj](https://github.com/jj-vcs/jj) - A Git-compatible VCS that is both simple and powerful
 * 【2025-05-04】[Mail-0 / Zero](https://github.com/Mail-0/Zero) - Experience email the way you want with 0 – the first open source email app that puts your privacy and safety first. Join the discord: https://discord.gg/0email
 * 【2025-05-03】[MODSetter / SurfSense](https://github.com/MODSetter/SurfSense) - Open Source Alternative to NotebookLM / Perplexity / Glean, connected to external sources such as search engines (Tavily, Linkup), Slack, Linear, Notion, YouTube, GitHub and more.
@@ -3859,6 +3863,7 @@
 
 ## Python
 
+* 【2025-05-08】[awslabs / agent-squad](https://github.com/awslabs/agent-squad) - Flexible and powerful framework for managing multiple AI agents and handling complex conversations
 * 【2025-05-06】[trycua / cua](https://github.com/trycua/cua) - c/ua is the Docker Container for Computer-Use AI Agents.
 * 【2025-05-04】[DachunKai / Ev-DeblurVSR](https://github.com/DachunKai/Ev-DeblurVSR) - [AAAI 2025] Event-Enhanced Blurry Video Super-Resolution
 * 【2025-05-01】[vllm-project / vllm-ascend](https://github.com/vllm-project/vllm-ascend) - Community maintained hardware plugin for vLLM on Ascend
@@ -6178,6 +6183,8 @@
 
 ## Javascript
 
+* 【2025-05-08】[modelcontextprotocol / servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
+* 【2025-05-08】[GeoNode / geonode](https://github.com/GeoNode/geonode) - GeoNode is an open source platform that facilitates the creation, sharing, and collaborative use of geospatial data.
 * 【2025-05-06】[serverless-dns / serverless-dns](https://github.com/serverless-dns/serverless-dns) - The RethinkDNS resolver that deploys to Cloudflare Workers, Deno Deploy, Fastly, and Fly.io
 * 【2025-05-06】[git-tips / tips](https://github.com/git-tips/tips) - Most commonly used git tips and tricks.
 * 【2025-05-05】[ilyhalight / voice-over-translation](https://github.com/ilyhalight/voice-over-translation) - Небольшое расширение, которое добавляет закадровый перевод видео из YaBrowser в другие браузеры
@@ -7667,6 +7674,7 @@
 
 ## Go
 
+* 【2025-05-08】[rzane / docker2exe](https://github.com/rzane/docker2exe) - Convert a Docker image to an executable
 * 【2025-05-05】[googleapis / go-genai](https://github.com/googleapis/go-genai) - Google Gen AI Go SDK provides an interface for developers to integrate Google's generative models into their Go applications.
 * 【2025-05-05】[blacktop / ipsw](https://github.com/blacktop/ipsw) - iOS/macOS Research Swiss Army Knife
 * 【2025-05-02】[ibnaleem / gosearch](https://github.com/ibnaleem/gosearch) - 🔍 Search anyone's digital footprint across 300+ websites
@@ -10874,6 +10882,7 @@
 
 ## C#
 
+* 【2025-05-08】[kurrent-io / KurrentDB](https://github.com/kurrent-io/KurrentDB) - EventStoreDB, the event-native database. Designed for Event Sourcing, Event-Driven, and Microservices architectures
 * 【2025-05-03】[meysamhadeli / monolith-to-cloud-architecture](https://github.com/meysamhadeli/monolith-to-cloud-architecture) - A practical architecture styles for migrating from monolith to modern cloud native application with the latest technologies and architectures like Vertical Slice Architecture, Event Sourcing, CQRS, DDD, gRpc, MongoDB, RabbitMq, and Masstransit in .Net 9.
 * 【2025-05-03】[SpaceTimee / Sheas-Cealer](https://github.com/SpaceTimee/Sheas-Cealer) - Just Ceal It (可用于无代理合法抵御网络监听和开展网络研究)
 * 【2025-04-29】[intro-skipper / intro-skipper](https://github.com/intro-skipper/intro-skipper) - Fingerprint audio to automatically detect and skip intro/credit sequences in Jellyfin
