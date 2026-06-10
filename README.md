@@ -6,6 +6,7 @@
 
 ## All language
 
+* 【2026-06-10】[maziyarpanahi / openmed](https://github.com/maziyarpanahi/openmed) - open-source healthcare ai
 * 【2026-06-09】[RyanCodrai / turbovec](https://github.com/RyanCodrai/turbovec) - A vector index built on TurboQuant, written in Rust with Python bindings
 * 【2026-06-09】[google / skills](https://github.com/google/skills) - Agent Skills for Google products and technologies
 * 【2026-06-09】[refactoringhq / tolaria](https://github.com/refactoringhq/tolaria) - Desktop app to manage markdown knowledge bases
@@ -4497,6 +4498,7 @@
 
 ## Python
 
+* 【2026-06-10】[NVIDIA / SkillSpector](https://github.com/NVIDIA/SkillSpector) - Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.
 * 【2026-06-09】[alistaitsacle / free-llm-api-keys](https://github.com/alistaitsacle/free-llm-api-keys) - Free LLM API keys for GPT-5.5, Claude, DeepSeek, Gemini, Grok — copy, paste, use. Updated 3-5x daily. No credit card needed.
 * 【2026-06-09】[magenta / magenta-realtime](https://github.com/magenta/magenta-realtime) - Magenta RealTime 2: An Open-Weights Live Music Model
 * 【2026-06-09】[xerrors / Yuxi](https://github.com/xerrors/Yuxi) - 结合知识库、知识图谱管理的 多租户 Agent Harness 平台。 An agent harness that integrates a LightRAG knowledge base and knowledge graphs. Build with LangChain + Vue + FastAPI, support DeepAgents、MinerU PDF、Neo4j 、MCP.
@@ -10330,6 +10332,8 @@
 
 ## C
 
+* 【2026-06-10】[InterceptSuite / ProxyBridge](https://github.com/InterceptSuite/ProxyBridge) - Proxifier Alternative to redirect any Windows/MacOS/Linux TCP and UDP traffic to HTTP/Socks5 proxy
+* 【2026-06-10】[vayun-mathur / Modern-Apps](https://github.com/vayun-mathur/Modern-Apps) - A full mobile ecosystem of 19 apps
 * 【2026-06-06】[xarray / osgverse](https://github.com/xarray/osgverse) - osgVerse, a complete 3d engine solution based on OpenSceneGraph. It supports OpenGL/OpenGLES/Vulkan/DirectX/Metal backends, and also works on modern browsers using WASM.
 * 【2026-06-04】[zanfranceschi / rinha-de-backend-2026](https://github.com/zanfranceschi/rinha-de-backend-2026) - Rinha de Backend - Quarta Edição: Detecção de Fraude com Busca Vetorial
 * 【2026-06-04】[21cncstudio / project_aura](https://github.com/21cncstudio/project_aura) - ESP32‑S3 air‑quality station with LVGL UI, MQTT, Home Assistant
@@ -11597,6 +11601,7 @@
 
 ## C++
 
+* 【2026-06-10】[strukturag / libheif](https://github.com/strukturag/libheif) - libheif is an HEIF and AVIF file format decoder and encoder.
 * 【2026-06-06】[ElyPrismLauncher / Launcher](https://github.com/ElyPrismLauncher/Launcher) - This fork of Prism Launcher adds integrated support for Ely.by accounts.
 * 【2026-06-03】[CopterExpress / clover](https://github.com/CopterExpress/clover) - ROS-based framework and RPi image to control PX4-powered drones 🍀
 * 【2026-06-03】[aenu1 / aps3e](https://github.com/aenu1/aps3e) - An experimental Android PS3 emulator, ported and optimized based on RPCS3.
@@ -14064,6 +14069,7 @@
 
 ## Html
 
+* 【2026-06-10】[jonasstrehle / supercookie](https://github.com/jonasstrehle/supercookie) - ⚠️Browser fingerprinting via favicon!
 * 【2026-06-09】[averygan / reclip](https://github.com/averygan/reclip) - Download videos from almost any website. Lightweight, self-hosted media downloader with a clean web UI.
 * 【2026-06-06】[beastx-ro / first2apply](https://github.com/beastx-ro/first2apply) - 
 * 【2026-06-05】[Sushegaad / Claude-Skills-Governance-Risk-and-Compliance](https://github.com/Sushegaad/Claude-Skills-Governance-Risk-and-Compliance) - Claude Skills for Governance, Risk, & Compliance (GRC): Expert-level compliance guidance for ISO 27001, SOC 2, FedRAMP, GDPR, HIPAA, NIST CSF, PCI DSS, EU AI Act, ISO 42001, ISO 27701, DORA, CSRD, India's DPDPA, CMMC 2.0, NIST AI Risk, SWIFT, Australia's ISM, EU NIS2, and CCPA/CPRA. Benchmark 97% (with skills) vs 81% (without skills).
