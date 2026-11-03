@@ -6,6 +6,7 @@
 
 ## All language
 
+* 【2026-11-03】[vercel-labs / agent-desktop](https://github.com/vercel-labs/agent-desktop) - Computer use CLI for AI agents
 * 【2026-11-02】[beenuar / AiSOC](https://github.com/beenuar/AiSOC) - Open-source AI Security Operations Center: alert fusion, LLM-agent triage, MITRE ATT&CK investigation, and a replayable decision ledger for every agent step. Self-hostable, runs with no API keys, MIT licensed. Ships an MCP server for Claude, Cursor and Continue.
 * 【2026-11-02】[anomalyco / hex](https://github.com/anomalyco/hex) - Local voice dictation for mac, windows and linux
 * 【2026-11-02】[FlashML-org / FreeToken](https://github.com/FlashML-org/FreeToken) - FreeToken brings datacenter-scale model serving to your desktop. Run massive models locally, fast and efficiently.
@@ -3602,6 +3603,7 @@
 
 ## Java
 
+* 【2026-11-03】[mlmvpn / mlmvpn_android](https://github.com/mlmvpn/mlmvpn_android) - Multi-engine Android VPN — Xray, WARP, Psiphon, Tor, Geph, OpenVPN, MASQUE/AmneziaWG, and the MLM Adaptive Engine that routes each app by its own best path; Cloudflare panels, Config Studio, game booster. Kotlin + Jetpack Compose. | اپلیکیشن VPN چندموتورهٔ اندروید با موتور تطبیقی
 * 【2026-11-02】[appdevforall / CodeOnTheGo](https://github.com/appdevforall/CodeOnTheGo) - Code on the Go is an IDE that lets you build Android apps on Android phones, without a laptop computer and without Internet access. Code on the Go is a project of App Dev for All.
 * 【2026-10-25】[floci-io / floci](https://github.com/floci-io/floci) - Light, fluffy, and always free - The AWS Local Emulator alternative
 * 【2026-10-22】[kksimp / Mac.apk](https://github.com/kksimp/Mac.apk) - Mac.apk: Run Android apps natively on Apple Silicon Macs
@@ -9556,6 +9558,8 @@
 
 ## Go
 
+* 【2026-11-03】[egoist / kero](https://github.com/egoist/kero) - A cross-platform native terminal app optimized for agents
+* 【2026-11-03】[warmbly / warmbly](https://github.com/warmbly/warmbly) - The largest open-source B2B cold outreach and email warmup service.
 * 【2026-11-01】[betterleaks / betterleaks](https://github.com/betterleaks/betterleaks) - Find leaked secrets everywhere.
 * 【2026-10-22】[Asymptote-Labs / agent-beacon](https://github.com/Asymptote-Labs/agent-beacon) - The cross-harness, self-improving memory layer for AI agents. Join our community: https://discord.com/invite/zdNChS2fBu
 * 【2026-10-19】[alvinunreal / lazyskills](https://github.com/alvinunreal/lazyskills) - mission control for agent skills
